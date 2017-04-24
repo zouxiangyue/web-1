@@ -1,0 +1,15 @@
+<style type="text/css">
+a{color:#727272;text-decoration:none;}
+a{color:#727272;text-decoration:none;}
+a:hover{color:#727272;text-decoration:underline;}
+.first{color:#b9f605;}
+.first:hover{color:#b9f605;text-decoration:underline;}
+.last{color:#fdb306;}
+.last:hover{color:#fdb306;text-decoration:underline;}
+.image{background:url(https://github.com/edu2act/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/banner.jpg?raw=true);background-size:950px 300px;}
+body{background-image:url(https://github.com/edu2act/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/bg.gif?raw=true);
+    background-repeat:no-repeat;
+    background-position:50% 0%;font-size:12px;font-family:Arial;line-height:2em;}
+.a{color:#FFFFFF;}
+.a:hover{color:#b9f605;text-decoration:none;}
+</style>
