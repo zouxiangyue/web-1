@@ -1,0 +1,29 @@
+<style type="text/css">
+.none{font-size:14px;}
+.none{font-size:12px;}
+.none:hover{color:#b9f605;text-decoration:none;}
+ol{list-style-type:none;}
+ul{list-style-type: square;}
+body{line-height:2.3em;}
+.bg0{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/menulist.gif?raw=true);
+    background-repeat:repeat;
+    width:258px;}
+.bg1{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/menutitle.gif?raw=true);
+    background-repeat: no-repeat;
+    background-position:0% 50%;
+    width:258px; }
+.pagebg{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pre.gif?raw=true);
+       background-repeat: no-repeat;
+       background-position: center
+       }
+.page{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pagebg.gif?raw=true);
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 width:45.99px;
+	 heihgt:42.99px;}
+.pagebule{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pagebg_1.gif?raw=true);
+	     background-repeat: no-repeat;
+	     background-position: center;
+	     width:45.99px;
+	     heihgt:42.99px;}
+</style>

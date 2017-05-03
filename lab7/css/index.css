@@ -1,0 +1,32 @@
+<style type="text/css">
+.new{font-size:16px;color:#65a7d0;font-family:'微软雅黑';
+font-weight:bolder;}
+.bg0{background-color:white;}
+.bg1{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pic.jpg?raw=true);
+	background-repeat: no-repeat;
+    height:211.99px;}
+.bg2{background:rgb(250,250,250) url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pic_news.gif?raw=true);
+	background-repeat: no-repeat;
+    height:40px;}
+.bg3{background-image: url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/notice_title.gif?raw=true);
+	background-repeat: no-repeat;
+	height:50px;}
+.bg4{background:rgb(250,250,250) url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/pic_foot_bg.gif?raw=true);
+	background-repeat: no-repeat;
+	height:41px;}
+.bg5{background:rgb(250,250,250) url(https://github.com/zouxiangyue/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/tup.gif?raw=true);
+	background-repeat: no-repeat;
+	height:151px;
+    width:201px;}
+
+body{line-height:2.5em;}
+.tr-bg{background-color:rgb(30,30,30);width:100%;
+       height:50px;}
+.tr{background-color: rgb(60,60,60);}
+ol{list-style-type:none;color:white;}
+ul{list-style-type: square;}
+.new{font-size:16px;color:#65a7d0;font-family:'微软雅黑';
+font-weight:bolder;}
+.new:hover{font-size:16px;color:#65a7d0;font-family:'微软雅黑';
+font-weight:bolder;text-decoration:underline;}
+</style>
