@@ -1,0 +1,157 @@
+
+#header
+{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-position:0px 100px;
+    height:520px;
+   	overflow:hidden;
+}
+.header_logo
+{
+	height:100px;
+	overflow:hidden;
+	float:left;
+}
+.logo
+{
+	height:105px;
+	width:120px;
+}
+
+.search
+{
+	width:400px;
+    height:34px;
+    border:2px solid #00ffff;
+    border-bottom:3px solid #00ffff;
+    float:left;
+    margin-top: 15px;
+    margin-left:20px;
+}
+.search_form
+{
+	float:left;
+	height:35px;
+}
+.search_input
+{
+	border:2px solid #00ffff;
+	height:30px;
+	width:300px;
+}
+.search_a
+{
+	background-color: #00ffff;
+	float:left;
+	padding:7px 32px
+ }
+.search_a>a
+{
+	color:#fff;
+	font-size:16px;
+	font-weight:900;
+	text-decoration:none;
+}
+.banner_img
+{
+	float:right;
+	height:50px;
+	width:50px;
+	margin-top:20px;
+	margin-right:10px;
+}
+.banner_p1
+{
+	font:20px '隶书';
+	float:right;
+	margin-top:34px;
+}
+.banner_p2
+{
+	width:300px;
+	color:gray;
+	font-size: 13px;
+	margin-top: 70px ;
+    margin-left:138px;
+    margin-bottom:9px;
+}
+.banner_ul
+{
+	width:1220px;
+	height:35px;
+	background-image: url(../images/daohanglan1.png);
+	padding-top: 10px;
+	padding-left: 110px;
+	margin-top:14px;
+}
+.banner_ul>li
+{
+    float:left;
+    list-style-type: none;
+    font:700 20px '宋体';
+    margin-left:40px
+}
+.banner_ul>li>a
+{
+	text-decoration: none;
+	color:#fff;
+}
+.banner_ul>li>a:hover
+{
+	text-decoration: none;
+	color:#0f0;
+}
+.p
+{
+	font-size: 14px;
+	margin-left:100px;
+}
+.p>a
+{
+	text-decoration:none;
+	color:#000;
+}
+.p>a:hover
+{
+	text-decoration:underline; 
+}
+#footer
+{
+	background-color:#e0ffff;
+	height:130px;
+	color:#a0a0a0;
+	text-align:center;
+}
+#footer>ul
+{
+	margin:0 auto;
+	width:500px;
+	height:50px;
+	padding-top:15px;
+	font-size:10px;
+}
+#footer>ul>li
+{
+	width:80px;
+	list-style-type:none;
+	float:left;
+}
+#footer>ul>li>a
+{
+	color:#a0a0a0;
+	text-decoration:none;
+	margin-right:15px;
+}
+#footer>ul>li>a:hover
+{
+	text-decoration:underline;
+}
+#footer>p
+{
+	color:#a0a0a0;
+	font-size:14px;
+	margin:0px;
+}
+
+

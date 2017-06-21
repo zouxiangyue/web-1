@@ -1,0 +1,22 @@
+#content
+{
+	height:1200px;
+	width:1020px;
+	margin-left:150px;
+	padding:15px;
+	background-color:rgb(245,272,272);
+}
+#content>h4
+{
+	text-align: center;
+}
+#content>img
+{
+	margin-left: 185px
+}
+#content>p
+{
+	font:15px '仿宋';
+	line-height: 28px;
+	text-indent: 2em;
+}

@@ -1,0 +1,155 @@
+#content
+{
+	width:1020px;
+	height:710px;
+	margin-left:150px;
+	background-color:rgb(245,272,272);
+}
+.left
+{
+	width:230px;
+	height:700px;
+	float:left;
+}
+.gonggao
+{
+	width:217px;
+    height:250px;
+	border:1px solid #dadbff;
+	background-image: url(../images/bg.png);
+	background-repeat:repeat-x;
+	margin:10px 10px;
+	padding-left:2px;
+	overflow: hidden;
+}
+.gonggao>p
+{
+	color:#08f;
+	font:700 14px '宋体';
+	text-align: center;
+	margin:7px;
+	text-shadow:3px 4px 2px #84ceff;
+}
+.gonggao>ul
+{
+	width:210px;
+	padding-left:0px;
+	padding-top:0px
+}
+.gonggao>ul>li
+{
+	list-style-type:none;
+    font-size:12px;
+    line-height:25px;
+}
+.gonggao>ul>li>a,.fuwu>ul>li>a,.luxian>ul>li>a
+{
+	color:#000;
+	text-decoration:none;
+}
+.gonggao>ul>li>a:hover,.fuwu>ul>li>a:hover,.luxian>ul>li>a:hover
+{
+	text-decoration:underline;
+}
+.fuwu
+{ 
+	width:210px;
+    height:420px;
+	border:1px solid #dadbff;
+	background-image: url(../images/fuwu.png);
+	background-repeat:no-repeat;
+	margin:10px 10px;
+	padding-left:10px;
+
+}
+.fuwu>ul
+{
+	padding-left:20px;
+	margin-top:5px;
+}
+.fuwu>ul>li
+{
+    font-size:12px;
+    line-height:25px;
+}
+.fuwu>img
+{
+    margin-top:35px;
+    margin-left:4px;
+}
+
+.luxian
+{
+	width:750px;
+	height:440px;
+	float:right;
+	border:1px solid #dadbff;
+	margin-right:10px;
+	margin-top: 10px
+}
+.luxian>ul
+{
+    float:left;
+    margin-right:10px;
+}
+.luxian>ul>li
+{
+	color:#5b5b5b;
+    font-size:14px;
+    line-height:30px;
+}
+.luxian>p
+{
+	height:30px;
+	background-image:url(../images/bg.png);
+    margin:0px;
+}
+.luxian>p>img
+{
+    margin-top:5px;
+    margin-left:10px;
+    float:left;
+}
+.luxian>p>span
+{
+	font:700 14px '宋体';
+	color:#08f;
+	margin-left:10px;
+	margin-top:10px;
+	text-shadow:3px 4px 2px #84ceff;
+	float:left;
+}
+.youhui
+{
+	width:750px;
+    height:230px;
+    border:1px solid #dadbff;
+    float:right;
+    margin-top:10px;
+    margin-right: 10px;
+    background-color:#ecffff;
+    overflow: hidden;
+}
+.youhui>p
+{
+	height:30px;
+	font:700 14px '宋体';
+	margin:0px;
+	padding-top:5px;
+	padding-left:10px;
+	background-image: url(../images/bg.png);
+	color:#2828ff;
+	text-shadow:3px 4px 2px #84ceff;
+}
+.youhui>ul
+{
+    float:left;
+    padding-left:20px;
+    margin-top: 10px;
+}
+.youhui>ul>li
+{
+	font:15px '仿宋';
+	list-style-type:none;
+	line-height: 26px
+}
